@@ -1,5 +1,6 @@
-# Light Switch
+# Olimex esp32c6 Matter relay
 
+Cloned from esp-matter/examples/light_switch
 This example creates an On/Off Light Switch device using the data model.
 
 It creates the On/Off client and other devices can be bound to the
